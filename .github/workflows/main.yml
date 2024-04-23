@@ -43,7 +43,7 @@ jobs:
         run: git status
 
       - name: Push new files to the output branch
-        uses: crazy-max/ghaction-github-pages@latest # Update to the latest version that supports Node.js 20
+        uses: crazy-max/ghaction-github-status@v4 # Update to the latest version that supports Node.js 20
         with:
           target_branch: output
           build_dir: dist
