@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **GSplit and G2G applications**
 
-- 👨‍💻 All of my projects are available at [https://github.com/GeorgiGoranov/GeorgiGoranov.github.io](https://github.com/GeorgiGoranov/GeorgiGoranov.github.io)
+- 👨‍💻 All of my projects are available at [https://georgigoranov.github.io](https://georgigoranov.github.io)
 
 - 📫 How to reach me **georgigoranov03@gmail.com**
 
