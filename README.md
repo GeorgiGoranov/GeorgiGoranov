@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgigoranov&label=Profile%20views&color=0e75b6&style=flat" alt="georgigoranov" /> </p>
 
-- 🔭 I’m currently working on **GSplit and G2G applications**
+- 🔭 I’m currently working on **GSplit, G2G and VC applications**
 
 - 👨‍💻 All of my projects are available at [https://georgigoranov.github.io](https://georgigoranov.github.io)
 
