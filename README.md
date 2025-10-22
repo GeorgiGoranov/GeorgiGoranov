@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **GSplit, G2G and VC applications**
 
-- 👨‍💻 All of my projects are available at [https://georgigoranov.github.io](https://georgigoranov.github.io)
+- 👨‍💻 All of my projects can be visited here => [https://g2g.it.com](https://g2g.it.com/)
 
 - 📫 How to reach me **georgigoranov03@gmail.com**
 
