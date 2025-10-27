@@ -25,7 +25,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,astro,git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,astro,aws,azure,bash,bitbucket,bootstrap,git,cs,cpp,css,cassandra,dart,django,dotnet,kubernetes,docker,express,figma,firebase" />
   </a>
 </p>
 
