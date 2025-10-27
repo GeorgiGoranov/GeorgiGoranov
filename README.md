@@ -7,30 +7,33 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgigoranov&label=Profile%20views&color=0e75b6&style=flat" alt="georgigoranov" /> </p>
 
-- 🔭 I’m currently working on **GSplit, G2G and VC applications**
+- :star: I have recently launched GSplit on mobile :iphone:. Currently for android and comming soon on iOS!
+
+- 🔭 I’m currently working on web and mobile applications: **GSplit, RodeWize, Velocity Check and VolleyToGo**
 
 - 👨‍💻 All of my projects can be visited here => [https://g2g.it.com](https://g2g.it.com/)
 
 - 📫 How to reach me **georgigoranov03@gmail.com**
 
-- ⚡ Fun fact **I'm a volleyball player. Playing for the Limburg's Team CIVITAS**
+- ⚡ Fun fact **I'm an active volleyball player since I was 15. Now playing for the Limburg's Team [CIVITAS](https://www.volleybal.nl/competitie/vereniging/ckm0h1f/heren/1)** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/georgi-goranov-b11bba230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/georgi-goranov-b11bba230/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/georgi-goranov-874870326/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/georgi-goranov-874870326/" height="30" width="40" /></a>
 <a href="https://instagram.com/2ggoranov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="2ggoranov" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCiNa6sp3m3B3IXbahd-3SOw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucina6sp3m3b3ixbahd-3sow" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Most Recent Languages and Tools I have used:</h3>
-<h4>For the full list of Frameworks, Languages, Databases and Tools & Technologies from my skills set please refer to my Web CV -> https://g2g.it.com</h4>
+<h3 align="center">Most Recent Languages and Frameworks I have used</h3>
+<h4 align="center">For the full list of Frameworks, Languages, Databases and Tools & Technologies from my skills set please refer to my Web CV -> https://g2g.it.com</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,azure,bash,bitbucket,cassandra,css,html,dart,django,docker,figma,firebase,flutter,js,mongodb,netlify,nodejs" />
+    <img src="https://skillicons.dev/icons?i=html,css,dart,js,ts,bash,python,astro,flutter,nextjs,react,tailwind,vite,netlify" />
   </a>
 </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">Please note that the matrices below are not fully representative of my technical capabilities, as they reflect only my public repositories. The majority of my professional work remains in private repositories due to signed Non-Disclosure Agreements (NDAs) or products currently in commercial deployment. I would be happy to provide additional context and discuss my private work in greater detail in a meeting.</h2>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=georgigoranov&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=georgigoranov&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
