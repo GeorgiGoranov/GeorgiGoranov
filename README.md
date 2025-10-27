@@ -22,7 +22,8 @@
 <a href="https://www.youtube.com/channel/UCiNa6sp3m3B3IXbahd-3SOw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucina6sp3m3b3ixbahd-3sow" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools used Recently:</h3>
+<h3 align="left">Most Recent Languages and Tools I have used:</h3>
+<h4>For the full list of Frameworks, Languages, Databases and Tools & Technologies from my skills set please refer to my Web CV -> https://g2g.it.com</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=astro,azure,bash,bitbucket,cassandra,css,html,dart,django,docker,figma,firebase,flutter,js,mongodb,netlify,nodejs" />
